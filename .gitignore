@@ -1,0 +1,77 @@
+# =========================
+# Python / FastAPI
+# =========================
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Pytest
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
+
+# VS Code
+.vscode/
+
+# Mac / Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# =========================
+# React / Node.js
+# =========================
+node_modules/
+
+# Package lock files (optional)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# React build
+frontend/build/
+
+# Vite
+vite.svg
+
+# Coverage
+coverage/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+
+# =========================
+# IDE
+# =========================
+.idea/
+
+# =========================
+# Misc
+# =========================
+*.swp
